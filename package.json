@@ -10,11 +10,11 @@
     "ai-assistant",
     "llm"
   ],
-  "author": "",
+  "author": "sole-dev-hobbyist",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/sole-dev-hobbyist/explain-to-my-boss.git"
   },
   "skill": {
     "name": "explain-to-my-boss",
