@@ -1,0 +1,25 @@
+{
+  "name": "explain-to-my-boss",
+  "version": "1.0.0",
+  "description": "Claude Code skill that translates any technical content into plain English for non-technical managers and executives.",
+  "keywords": [
+    "claude-code",
+    "skill",
+    "communication",
+    "technical-writing",
+    "ai-assistant",
+    "llm"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "skill": {
+    "name": "explain-to-my-boss",
+    "type": "component",
+    "entrypoint": "SKILL.md",
+    "compatible_with": ["claude-code", "codex-cli"]
+  }
+}
